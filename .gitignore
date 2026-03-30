@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Environment (NUNCA commitar credenciais)
+.env
+.env.local
+.env.production
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+*.tsbuildinfo
+next-env.d.ts
+
+# Logs
+npm-debug.log*
